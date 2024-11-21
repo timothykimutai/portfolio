@@ -8,7 +8,7 @@ Accounting & Finance, Bachelor of Commerce
 -IBM Professional Data Analyst   - Coursera
 
 ### Work Experience 
-Data Analyst| Lori Systems East Africa
+Data Analyst| Lori Systems East Africa <br/>
 -Project 1 <br/>
 -Project 2
 
